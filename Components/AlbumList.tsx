@@ -1,4 +1,4 @@
-import CardItem from "../components/CardItem";
+import CardItem from "./CardItem";
 import { Album } from "../types/types";
 import CardItemGrid from "./CardItemGrid";
 
