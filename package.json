@@ -19,6 +19,7 @@
     "react-icons": "^4.3.1"
   },
   "devDependencies": {
+    "@types/node": "^18.14.4",
     "@types/nprogress": "^0.2.0",
     "@types/react": "^17.0.3",
     "autoprefixer": "^10.2.5",
