@@ -6,7 +6,7 @@ Spotify CloNext is a Spotify clone built using Next.js and TailwindCSS. Users ca
 
 Working demo for the project - [Link](https://spotify-app-sage-omega.vercel.app)
 
-<b>Update </b>: Due to a change in the working of the spotify API, currently users cannot log in to the demo link. The application would work in the local system, and pending an approval from the Spotify team, this feature may start working soon in the future again.
+<b>Update </b>: Due to a change in the working of the spotify API, currently users cannot log in to the demo link. The application can only work in the local system, or ask to be put in the allowed list of the Spotify app.
 
 ## Table of contents
 
